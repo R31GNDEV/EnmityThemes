@@ -1,0 +1,157 @@
+{
+  "name": "Nario",
+  "description": "A light, nature, and a mystic touch.",
+  "version": "1.6",
+  "authors": [
+    {
+      "name": "Kota",
+      "id": "499287211381096458"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#000000",
+      "#060607"
+    ],
+    "HEADER_SECONDARY": [
+      "#000000",
+      "#4f5660"
+    ],
+    "TEXT_NORMAL": [
+      "#000000",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#383838",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#1259c4",
+      "#4f5660"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#363636",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#dc74e3",
+      "#060607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#4284ff",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#ebfff4",
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#ebfff4",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#ebfff4",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#ebfff4",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#ebfff4",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#ebfff4",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#ebfff4",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#ebfff4",
+      "#000000"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#ebfff4",
+      "#000000"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#c8c8c8",
+      "#6a7480"
+    ],
+    "TEXT_LINK": [
+      "#dc74e3",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#111011",
+      "#000000"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#000000",
+    "PRIMARY_DARK_200": "#000000",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#C8C8C8",
+    "PRIMARY_DARK_400": "#45f591",
+    "PRIMARY_DARK_500": "#37de88",
+    "PRIMARY_DARK_600": "#ebfff4",
+    "PRIMARY_DARK_630": "#ccebdf",
+    "PRIMARY_DARK_700": "#f0eded",
+    "PRIMARY_DARK_800": "#ebfff4",
+    "BRAND_NEW": "#dc74e3",
+    "STATUS_RED": "#dc74e3",
+    "STATUS_GREEN_600": "#dc74e3"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#ebfff4"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://cdn.discordapp.com/attachments/1020730781636759562/1020730872934191244/5e6d66f4e87c251afee6c9c580f6c00c.jpg",
+    "alpha": 0.3
+  }
+}
